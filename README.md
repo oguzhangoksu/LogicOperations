@@ -1,7 +1,8 @@
 
 ![Ekran görüntüsü 2024-06-28 210513](https://github.com/oguzhangoksu/LogicOperations/assets/70150316/0367a328-27c2-4705-a69e-1066c8cfeed2)
 
-## **T**his project involves the design and implementation of a microcontroller-based system that uses an LCD display and a keypad to perform and display the results of logical operations (AND, OR, XOR, NOR) on hexadecimal numbers entered by the user. The system is developed using C programming for an 8051 microcontroller.
+## 
+**T**his project involves the design and implementation of a microcontroller-based system that uses an LCD display and a keypad to perform and display the results of logical operations (AND, OR, XOR, NOR) on hexadecimal numbers entered by the user. The system is developed using C programming for an 8051 microcontroller.
 
 **Components**
 
